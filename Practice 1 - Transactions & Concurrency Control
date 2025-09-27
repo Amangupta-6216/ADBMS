@@ -91,3 +91,4 @@ CALL sp_part_d();
 DROP PROCEDURE IF EXISTS sp_part_d;
 
 SHOW COLUMNS FROM FeePayments;
+SELECT * FROM FeePayments
